@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MVP practise</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="s_name">
+        <item>"Abhinandan
+Everyday is a fashion show and the World is your runway
+
+Shop No.:G 03
+Contact Person:Birendra
+Tel:01-4011555
+"</item>
+        <item>"Avenue
+Fragnance speaks the loudest on a subliminal level
+
+Shop No.:G 31
+Contact Person:Anand
+Tel:01-4011717
+"</item>
+        <item>"Bigmart
+When in doubt, go shopping
+
+Shop No.:G 05-10
+Contact Person:Shaswat
+Tel:01-4005200
+"</item>
+        <item>"Canon
+Photography is to place Head Heart and eye along the same line of sight
+
+Shop No.:G 32
+Contact Person:Suman
+Tel:01-4011688
+"</item>
+        <item>"Genuine
+24-Hour Special // Noteworthy Watches
+
+Shop No.:F 34
+Contact Person:Lal
+Tel:9849256320
+"</item>
+         <item>"Genuine
+24-Hour Special // Noteworthy Watches
+
+Shop No.:F 34
+Contact Person:Lal
+Tel:9849256320
+"</item>
+         <item>"Genuine
+24-Hour Special // Noteworthy Watches
+
+Shop No.:F 34
+Contact Person:Lal
+Tel:9849256320
+"</item>
+         <item>"Genuine
+24-Hour Special // Noteworthy Watches
+
+Shop No.:F 34
+Contact Person:Lal
+Tel:9849256320
+"</item>
+         <item>"Genuine
+24-Hour Special // Noteworthy Watches
+
+Shop No.:F 34
+Contact Person:Lal
+Tel:9849256320
+"</item>
+    </string-array>
+</resources>
